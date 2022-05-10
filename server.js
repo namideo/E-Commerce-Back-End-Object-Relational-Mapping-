@@ -2,6 +2,7 @@ const express = require('express');
 const routes = require('./routes');
 // import sequelize connection
 const sequelize = require('./config/connection');
+const mysql = require('mysql2');
 
 
 const app = express();
@@ -18,6 +19,3 @@ sequelize.sync().then(() => {
   app.listen(PORT, () => console.log('Now listening'));
 });
 
-app.listen(PORT, () => {
-  console.log(`App listening on port ${PORT}!`);
-});
