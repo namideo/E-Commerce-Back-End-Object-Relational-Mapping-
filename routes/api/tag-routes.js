@@ -55,7 +55,7 @@ router.put('/:id', async (req, res) => {
       },
     });
     if (!tagData[0]) {
-      res.status(404).json({ message: 'No ctag with this id!' });
+      res.status(404).json({ message: 'No tag with this id!' });
       return;
     }
     res.status(200).json(tagData);
@@ -78,8 +78,9 @@ router.delete('/:id', async (req, res) => {
       return;
     }
 
-    res.status(200).json(tagData);
+    res.status(200).json({"status": "successfully deleted"});
   } catch (err) {
+    console.log(err);
     res.status(500).json(err);
   }
 });
