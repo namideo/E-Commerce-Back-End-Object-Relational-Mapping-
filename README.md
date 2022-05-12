@@ -29,4 +29,6 @@ POST, PUT, and DELETE routes for PRODUCTS
 ![E-Commerce Back End - Products](https://user-images.githubusercontent.com/94868925/167988409-7145987d-f290-445c-85bd-9bb2b4fd9efb.gif)
 
 POST, PUT, and DELETE routes for TAGS
+![E-Commerce Back End - Tags](https://user-images.githubusercontent.com/94868925/167989739-e41fcc6f-6dfd-4951-80bd-4f34ed2bb39b.gif)
+
 
