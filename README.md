@@ -12,3 +12,4 @@ The purpose of this activity is to complete the back end for an e-commerce site 
 
 ## Mock-Up
 
+![2022-05-11 23 29 13](https://user-images.githubusercontent.com/94868925/167987110-ab1075d1-2d26-49ad-835e-d17f499e6cf8.gif)
