@@ -13,16 +13,20 @@ The purpose of this activity is to complete the back end for an e-commerce site 
 ## Mock-Up
 
 GET routes for ALL categories, products, and tags. 
+
 ![E-Commerce Back End - GET all](https://user-images.githubusercontent.com/94868925/167988140-fb70070a-5ba2-457a-84c8-d8a974e9e815.gif)
 
 GET routes for categories, products, and tags by ID. 
+
 ![E-Commerce Back End - GET id](https://user-images.githubusercontent.com/94868925/167988292-9ab939a1-1d58-4833-87c4-67e88e153c85.gif)
 
 POST, PUT, and DELETE routes for CATEGORIES.
+
 ![E-Commerce Back End - Categories](https://user-images.githubusercontent.com/94868925/167988333-31d42efe-3889-4c78-87ff-e87107c0528c.gif)
 
 POST, PUT, and DELETE routes for PRODUCTS
+
 ![E-Commerce Back End - Products](https://user-images.githubusercontent.com/94868925/167988409-7145987d-f290-445c-85bd-9bb2b4fd9efb.gif)
 
 POST, PUT, and DELETE routes for TAGS
-[E-Commerce Back End - Tags.gif.zip](https://github.com/namideo/E-Commerce-Back-End-Object-Relational-Mapping-/files/8674875/E-Commerce.Back.End.-.Tags.gif.zip)
+
